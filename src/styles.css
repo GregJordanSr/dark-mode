@@ -177,8 +177,8 @@ img {
 }
 
 .dark-mode__toggle {
-  background: papayawhip;
-  border-radius: 50px;
+  background-color: black;  
+  color: white;
   border: 1px solid black;
   height: 20px;
   position: relative;
