@@ -176,13 +176,20 @@ img {
   box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
 }
 
+
+
 .dark-mode__toggle {
-  background: papayawhip;
+  background: papayawhip;  
   border-radius: 50px;
   border: 1px solid black;
   height: 20px;
   position: relative;
   width: 40px;
+}
+
+.dark-mode {
+  color: white;
+  background-color: black;
 }
 
 .toggle {
